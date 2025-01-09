@@ -1,4 +1,4 @@
-
+# About gldcswpy
 gldcswpy is a Python package that implements tools for using Generalized Lambda Distribution (GLD) in CSW Parametrization for Python.
 
 The Generalized Lambda Distribution (GλD) is a flexible family of probability distributions that can assume a wide range of shapes, making it a valuable tool in statistical modeling. It specified by four parameters which determine location, scale and shape of the distribution.
